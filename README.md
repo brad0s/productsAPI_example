@@ -7,7 +7,7 @@
 Create `.env`
 
 ```
-DATABASE_URL = mongodb://localhost/users
+DATABASE_URL = mongodb://localhost/product
 PORT = 3000
 ```
 
